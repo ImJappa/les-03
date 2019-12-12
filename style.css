@@ -1,0 +1,62 @@
+body {
+    background-color:white;
+    font-family:sans-serif;
+    background-image: url("bruna-branco-t8hTmte4O_g-unsplash.jpg");
+    background-size: 100%;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+    font-family: lobster;
+    font-size: 75px;
+    text-shadow:1px 1px 0px rgba(150, 150, 150, 1);
+}
+
+h1 {
+    font-family:;
+    font-size: 50px;
+}
+
+.content {
+    min-height:0px;
+    margin-bottom:50px;
+    position: static;
+}
+
+img {
+    height: auto;
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+    
+  }
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.geschiedenis {
+  width: 300px;
+  padding: 50px;
+  margin: 20px;
+  position: static;
+
+}
+
+.ingredienten {
+  width: 300px;
+  padding: 50px;
+  margin: 20px;
+}
+
+.bereiden {
+  width: 300px;
+  padding: 50px;
+  margin: 20px;
+  position: absolute;
+  right: 200px;
+
+}
